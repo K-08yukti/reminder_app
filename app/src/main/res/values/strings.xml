@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">reminder_app</string>
+    <string name="Name">enter username</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="pass">enter numeric password</string>
+    <string name="text">Do not have an account???</string>
+    <string name="reg_but">register now</string>
+    <string name="full_name">enter your full name</string>
+    <string name="fullname">Full Name</string>
+    <string name="email">Email</string>
+    <string name="e_email">enter valid email id</string>
+    <string name="e_phone">enter valid phone number</string>
+    <string name="phone">Phone Number</string>
+    <string name="loginpage">Back to login page</string>
+    <string name="reg">register me</string>
+    <string name="task">Add New Task</string>
+    <string name="missed">Missed Task</string>
+    <string name="completed">Completed Task</string>
+    <string name="text1">Task To Be Completed___</string>
+
+
+</resources>
